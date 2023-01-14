@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+}
+
+
+
+
+
+/* ------------------------------------------------------------ */
+/* ----------------------common style-------------------------- */
+/* ------------------------------------------------------------ */
+
+
+
+#main{
+    background-color:rgba(255, 144, 14, 0.1);
+    margin-top: 0px;
+}
+
+
+
+/* ------------------------------------------------------------ */
+/* ---------------------Header er style------------------------ */
+/* ------------------------------------------------------------ */
+h2{
+    margin-left: 180px;
+    margin-top: 50px;
+   
+}
+.tittle-nav{
+ 
+    display: flex;
+ 
+   
+}
+nav ul{
+   display: flex;
+   list-style: none;
+   margin-left: 300px;
+   margin-top: 50px;
+}
+nav li{
+    padding-left: 50px;
+}
+
+
+/* ------------------------------------------------------------ */
+/* ---------------------main part style------------------------ */
+/* ------------------------------------------------------------ */
+.big-text-parahraph{
+    margin-left: 480px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 100px;
+   
+}
+.short-text{
+
+    font-size: 16px;
+    font-weight: 400px;
+}
+
+.btn-type{
+    color: white;
+    height:50px ;
+    width: 110px;
+    border-radius: 5px;
+    background-color: orangered;
+    margin-top: 30px;
+    margin-left: 550px;
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
+h4{
+  padding-top: 15px;
+}
+
+/* ------------------------------------------------------------ */
+/* -------------------------pic part style---------------------- */
+/* ------------------------------------------------------------ */
+
+
+
+
+.pic-part img{
+    margin-left: 170px;
+    width: 920px;
+    height: 480px;
+}
+
+/* ------------------------------------------------------------ */
+/* -----------------------sponser part------------------------- */
+/* ------------------------------------------------------------ */
+.spon-text{
+    margin-top: 50px;
+    margin-left: 400px;
+    text-align: center;
+    width: 540px;
+    height: 140px;
+}
+
+.spon-image{
+    display: flex;
+    width:155px ;
+    height: 50px;
+    margin-left: 150px;
+}
+.spon-image img{
+    padding-left: 20px;
+}
+
+
+/* ----------------------------------------------------------- */
+/*----------------------- footer style------------------------- */
+/* ------------------------------------------------------------ */
+.footer{
+    margin-left: 170px;
+    padding-top: 50px;
+    height: 80px;
+    width: 920px;
+    background-color: #FFF4E7;
+}
+.ftext{
+    margin-left: 280px;
+}
