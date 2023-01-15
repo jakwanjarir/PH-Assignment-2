@@ -36,7 +36,7 @@ h2{
 nav ul{
    display: flex;
    list-style: none;
-   margin-left: 300px;
+   margin-left: 360px;
    margin-top: 50px;
 }
 nav li{
@@ -86,21 +86,214 @@ h4{
 
 .pic-part img{
     margin-left: 170px;
-    width: 920px;
+    width: 950px;
     height: 480px;
+    padding-bottom: 10px;
 }
+
+/* ------------------------------------------------------------ */
+/* -----------------------features part style------------------ */
+/* ------------------------------------------------------------ */
+.fet{
+    margin-left: 0px;
+}
+.fetup{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.features-container img{
+    width: 242px;
+    height: 242px;
+ 
+}
+.all-img{
+   margin-left: 170px;
+   margin-top: 40px;
+ 
+}
+
+.features-text{
+    width: 330px;
+    height: 70px;
+   position: absolute;
+   margin-left: 750px;
+   margin-top: -400px;
+}
+.exm{
+   
+    height: 20px;
+    width: 100px;
+    background-color: orange;
+    padding-left: 5px;
+    padding-top: 2px;
+    border-radius: 5px;
+}
+
+
+
+/* ------------------------------------------------------------ */
+/* -----------------------features Enjoy------------------------- */
+/* ------------------------------------------------------------ */
+
+.girl img{
+    position: absolute;
+    right: 90px;
+    padding-top: 30px;
+    height:650px;
+    width: 490px;
+    margin-bottom: 40px;
+}
+.exp{
+    background-color: orange;
+    height: 110;
+    width: 130px;
+    padding-top: 3px;
+    padding-left: 10px;
+    position: absolute;
+    margin-top: 620px;
+ 
+}
+.exp{
+    margin-left: -210px;
+    color: #FFF4E7;
+}
+
+.enjoy-flex{
+    display: flex;
+    margin-left: 170px;
+}
+.fetuenjoy{
+    height: 500px;
+    width: 700px;
+    padding-top: 50px;
+}
+
+.fetuph{
+    height: 80px ;
+    width: 490px;
+    padding-top: 10px;
+}
+
+#dexk{
+    padding-top: 25px;
+}
+
+/* ---------------------------------------------------------- */
+/* ------------------------some fact part-------------------- */
+/* ---------------------------------------------------------- */
+
+#fact{
+    margin-top: 300px;
+    margin-left: 170px;
+  
+}
+.Sfact{
+
+
+}
+
+.ftittle{
+    font-size: 45px;
+    
+}
+.fph{
+    width: 500px;
+    height: 50px;
+}
+.box{
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+   
+}
+
+.box-1{
+    width: 200px;
+    height: 160px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    padding-top: 50px;
+   
+}
+.box-2{
+    width: 200px;
+    height: 160px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    padding-top: 50px;
+   
+    
+}
+.box-3{
+    width: 200px;
+    height: 160px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    padding-top: 50px;
+   
+    
+}
+.box-4{
+    width: 200px;
+    height: 160px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    padding-top: 50px;
+        
+}
+:hover.box{
+display: flex;
+justify-content: space-evenly;
+
+
+}
+/* --------------------------------------------------------- */
+/* --------------------Extra Section style------------------ */
+/* --------------------------------------------------------- */
+.protfolio{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.expro img{
+    height: 200px;
+    width: 300px;
+}
+
+
+.allpro{
+    margin-top: 30px;
+    margin-left: 170px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* ------------------------------------------------------------ */
 /* -----------------------sponser part------------------------- */
 /* ------------------------------------------------------------ */
 .spon-text{
-    margin-top: 50px;
+    margin-top: 150px;
     margin-left: 400px;
     text-align: center;
     width: 540px;
     height: 140px;
 }
-
+.sph{
+    font-size: 16px;
+}
 .spon-image{
     display: flex;
     width:155px ;
