@@ -2,10 +2,6 @@
     margin: 0px;
 }
 
-
-
-
-
 /* ------------------------------------------------------------ */
 /* ----------------------common style-------------------------- */
 /* ------------------------------------------------------------ */
@@ -55,6 +51,11 @@ nav li{
     height: 100px;
    
 }
+.page-tittle{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
 .short-text{
 
     font-size: 16px;
@@ -66,7 +67,7 @@ nav li{
     height:50px ;
     width: 110px;
     border-radius: 5px;
-    background-color: orangered;
+    background-color:#FF900E;
     margin-top: 30px;
     margin-left: 550px;
     margin-bottom: 30px;
@@ -96,6 +97,12 @@ h4{
 /* ------------------------------------------------------------ */
 .fet{
     margin-left: 0px;
+ 
+        font-family: 'Work Sans', sans-serif;
+}
+span{
+    color: 
+    #FF900E;
 }
 .fetup{
     padding-top: 20px;
@@ -166,6 +173,7 @@ h4{
     height: 500px;
     width: 700px;
     padding-top: 50px;
+    font-family: 'Work Sans', sans-serif;
 }
 
 .fetuph{
@@ -194,6 +202,7 @@ h4{
 
 .ftittle{
     font-size: 45px;
+    font-family: 'Work Sans', sans-serif;
     
 }
 .fph{
@@ -254,6 +263,7 @@ justify-content: space-evenly;
     font-size: 45px;
     text-align: center;
     margin-top: 50px;
+    font-family: 'Work Sans', sans-serif;
 
 }
 .expro img{
@@ -266,19 +276,6 @@ justify-content: space-evenly;
     margin-top: 30px;
     margin-left: 170px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* ------------------------------------------------------------ */
@@ -309,12 +306,26 @@ justify-content: space-evenly;
 /*----------------------- footer style------------------------- */
 /* ------------------------------------------------------------ */
 .footer{
+    margin-top: 50px;
+    margin-bottom: 50px;
     margin-left: 170px;
-    padding-top: 50px;
-    height: 80px;
+    padding-top: 25px;
+    height: 50px;
     width: 920px;
     background-color: #FFF4E7;
 }
 .ftext{
     margin-left: 280px;
 }
+
+/* ------------------------------------------------------------------ */
+/* -------------------------Mobile Divice----------------------------- */
+/* ------------------------------------------------------------------ */
+/* @media screen and (max-width:688px) {
+    #main{
+       width: 100%;
+       grid-template-columns: repeat(1,2fr);
+    }
+    
+
+} */
